@@ -3,6 +3,7 @@
     "displayName": "wombat",
     "description": "",
     "version": "0.0.1",
+    "repository": "github:satansdeer/wombat",
     "publisher": "satansdeer",
     "engines": {
         "vscode": "^1.36.0"
